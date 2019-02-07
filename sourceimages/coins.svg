@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="530px" height="574px" viewBox="0 0 530 574" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Coins</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="58.2096793%" y1="33.5410092%" x2="58.2096815%" y2="82.4637874%" id="linearGradient-1">
+            <stop stop-color="#E9E9E9" offset="0%"></stop>
+            <stop stop-color="#E9E9E9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="43.8944995%" y1="31.6151893%" x2="43.8945%" y2="82.2779045%" id="linearGradient-2">
+            <stop stop-color="#E9E9E9" offset="0%"></stop>
+            <stop stop-color="#E9E9E9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-910.000000, -240.000000)">
+        <g id="Coins" transform="translate(919.000000, 249.000000)">
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" transform="translate(441.500000, 199.000000) rotate(-56.000000) translate(-441.500000, -199.000000) " x="408" y="-17" width="67" height="432"></rect>
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="14" fill="#E8D99D" cx="281.5" cy="90.5" r="38.5"></circle>
+            <rect id="Rectangle-2" fill="url(#linearGradient-2)" transform="translate(366.281130, 404.081276) rotate(-56.000000) translate(-366.281130, -404.081276) " x="314.959429" y="74.081276" width="102.643401" height="660"></rect>
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="17" fill="#E8D99D" cx="121.5" cy="238.5" r="58.5"></circle>
+            <rect id="Rectangle-2-Copy" fill="url(#linearGradient-2)" transform="translate(354.281130, 257.081276) rotate(-56.000000) translate(-354.281130, -257.081276) " x="302.959429" y="-72.918724" width="102.643401" height="660"></rect>
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="17" fill="#E8D99D" cx="55" cy="55" r="55"></circle>
+        </g>
+    </g>
+</svg>

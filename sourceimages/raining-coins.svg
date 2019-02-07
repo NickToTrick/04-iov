@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1302px" height="752px" viewBox="0 0 1302 752" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Raining Coins</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="12.2398205%" x2="50%" y2="62.1652145%" id="linearGradient-1">
+            <stop stop-color="#FAEEB0" offset="0%"></stop>
+            <stop stop-color="#DFCC82" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="57.492236%" id="linearGradient-2">
+            <stop stop-color="#29B3A5" offset="0%"></stop>
+            <stop stop-color="#35C1B3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#29B3A5" offset="0%"></stop>
+            <stop stop-color="#35C1B3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="80.7090089%" id="linearGradient-4">
+            <stop stop-color="#29B3A5" offset="0%"></stop>
+            <stop stop-color="#35C1B3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-77.000000, -5419.000000)">
+        <g id="Raining-Coins" transform="translate(86.000000, 5419.000000)">
+            <g id="Group-8" transform="translate(0.000000, 231.000000)">
+                <rect id="Rectangle-12" fill="#35C1B3" x="5" y="0" width="107" height="161"></rect>
+                <circle id="Oval" stroke="#29B3A5" stroke-width="17" fill="url(#linearGradient-1)" cx="59" cy="154" r="59"></circle>
+            </g>
+            <g id="Group-8-Copy" transform="translate(1076.000000, 231.000000)">
+                <rect id="Rectangle-12" fill="url(#linearGradient-2)" x="5" y="0" width="107" height="300"></rect>
+                <circle id="Oval" stroke="#29B3A5" stroke-width="17" fill="url(#linearGradient-1)" cx="59" cy="293" r="59"></circle>
+            </g>
+            <g id="Group-7" transform="translate(209.000000, 233.000000)">
+                <rect id="Rectangle-12-Copy" fill="url(#linearGradient-3)" x="3" y="0" width="69" height="193"></rect>
+                <circle id="Oval-Copy" stroke="#29B3A5" stroke-width="14" fill="url(#linearGradient-1)" cx="38" cy="189" r="38"></circle>
+            </g>
+            <g id="Group-7-Copy-3" transform="translate(1208.000000, 231.000000)">
+                <rect id="Rectangle-12-Copy" fill="url(#linearGradient-4)" x="3" y="0" width="69" height="478"></rect>
+                <circle id="Oval-Copy" stroke="#29B3A5" stroke-width="17" fill="url(#linearGradient-1)" cx="38" cy="474" r="38"></circle>
+            </g>
+            <g id="Group-7-Copy-4" transform="translate(860.000000, 232.000000)">
+                <rect id="Rectangle-12-Copy" fill="url(#linearGradient-4)" x="1" y="0" width="48" height="187"></rect>
+                <circle id="Oval-Copy" stroke="#29B3A5" stroke-width="12" fill="url(#linearGradient-1)" cx="26" cy="185" r="26"></circle>
+            </g>
+            <g id="Group-7-Copy" transform="translate(321.000000, 157.000000)">
+                <rect id="Rectangle-12-Copy" fill="#35C1B3" x="2" y="0" width="38" height="213"></rect>
+                <circle id="Oval-Copy" stroke="#29B3A5" stroke-width="10" fill="url(#linearGradient-1)" cx="21" cy="211" r="21"></circle>
+            </g>
+            <g id="Group-7-Copy-2" transform="translate(920.000000, 226.000000)">
+                <rect id="Rectangle-12-Copy" fill="#35C1B3" x="2" y="0" width="38" height="307"></rect>
+                <circle id="Oval-Copy" stroke="#29B3A5" stroke-width="16" fill="url(#linearGradient-1)" cx="21" cy="305" r="21"></circle>
+            </g>
+            <g id="Group-7-Copy-6" transform="translate(614.000000, 0.000000)">
+                <rect id="Rectangle-12-Copy" fill="#35C1B3" x="3" y="0" width="37" height="297"></rect>
+                <circle id="Oval-Copy" stroke="#29B3A5" stroke-width="10" fill="url(#linearGradient-1)" cx="20.5" cy="294.5" r="20.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
